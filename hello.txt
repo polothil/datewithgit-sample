@@ -8,3 +8,8 @@ This is the modification done on master for conflict merge demo
 This is the second modification on feature for "conflict merge demo".
 
 New changes for pushing to hub
+
+fgf
+gfdgdfgd
+fg
+dfgdfgdfg
