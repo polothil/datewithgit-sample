@@ -1,3 +1,5 @@
 Hello, how are you?
 
 This is the modification done on feature
+
+This is the second modification on feature for "conflict merge demo".
